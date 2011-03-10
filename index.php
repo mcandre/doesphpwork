@@ -5,7 +5,7 @@
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 	<link rel="favorites icon" href="/favicon.ico" />
 </head>
-<body>
+<body style="text-align: center;">
 <p><a href="https://github.com/mcandre/doesphpwork">GitHub</a></p>
 <h1>Does PHP Work?</h1>
 <p>You betcha!</p>
