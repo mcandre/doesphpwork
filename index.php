@@ -9,7 +9,7 @@
 <p><a href="https://github.com/mcandre/doesphpwork">GitHub</a></p>
 <h1>Does PHP Work?</h1>
 <p>You betcha!</p>
-<h1>Implementation</h1>
+<h2>Implementation</h2>
 <p>PHP <?php echo phpversion(); ?></p>
 <h2>Operating System</h2>
 <p><?php echo PHP_OS; ?></p>
