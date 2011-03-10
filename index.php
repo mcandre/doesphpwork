@@ -11,5 +11,7 @@
 <p>You betcha!</p>
 <h1>Implementation</h1>
 <p>PHP <?php echo phpversion(); ?></p>
+<h2>Operating System</h2>
+<p><?php echo PHP_OS; ?></p>
 </body>
 </html>
