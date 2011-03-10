@@ -4,13 +4,12 @@ HOMEPAGE
 
 http://doesphpwork.yellosoft.us/
 
-INSTALL
+REQUIREMENTS
 
- 1. Run git clone https://github.com/mcandre/doesphpwork.git
- 2. Edit doesphpwork.apache
- 3. Modify the IP addresses and both ServerNames
- 4. Modify DocumentRoot to use this directory.
- 5. Run sudo cp doesphpwork.apache /etc/apache2/sites-available/
- 6. Run sudo ln -s /etc/apache2/sites-available/doesphpwork.apache /etc/apache2/sites-enabled/doesphpwork.apache
- 7. Run sudo apachectl restart
- 8. Open http://doesphpwork.localhost/
+ - Apache, nginx, etc.
+ - PHP
+
+SETUP
+
+ 1. Modify your web server configuration to point to this directory.
+ 2. Open http://doesphpwork.localhost/
